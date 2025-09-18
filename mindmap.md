@@ -1,83 +1,81 @@
-```mermaid
 mindmap
   root((Knowledge))
-    Foundations_of_Thought
+    Foundations-of-Thought
       Philosophy
       Mathematics
-      Logic_and_Systems
-    Natural_World
-      Physical_Sciences
+      Logic-and-Systems
+    Natural-World
+      Physical-Sciences
         Physics
         Chemistry
         Astronomy
-        Earth_Sciences
-      Life_Sciences
+        Earth-Sciences
+      Life-Sciences
         Biology
         Ecology
         Genetics
         Evolution
-      Health_and_Medicine
+      Health-and-Medicine
         Anatomy
         Neuroscience
         Psychology
-    Human_World
+    Human-World
       History
         Ancient
         Medieval
         Modern
-      Anthropology_and_Culture
+      Anthropology-and-Culture
         Language
         Religion
         Art
-      Society_and_Politics
+      Society-and-Politics
         Law
         Government
-        International_Relations
-      Economics_and_Business
+        International-Relations
+      Economics-and-Business
         Markets
         Finance
         Management
-    Technology_and_Engineering
-      Information_and_Computing
-        Computer_Science
-        AI_and_Data_Science
+    Technology-and-Engineering
+      Information-and-Computing
+        Computer-Science
+        AI-and-Data-Science
         Cybersecurity
       Engineering
         Mechanical
         Civil
         Electrical
-      Applied_Sciences
+      Applied-Sciences
         Medicine
         Biotech
         Energy
-    Creative_Expression
+    Creative-Expression
       Arts
         Literature
         Music
-        Visual_Arts
-        Performing_Arts
+        Visual-Arts
+        Performing-Arts
       Design
         Architecture
-        Product_Design
-      Media_and_Communication
+        Product-Design
+      Media-and-Communication
         Film
         Journalism
-        Digital_Content
-    Practical_Knowledge
-      Everyday_Skills
+        Digital-Content
+    Practical-Knowledge
+      Everyday-Skills
         Cooking
         Crafts
         Survival
-      Professional_Skills
+      Professional-Skills
         Law
         Teaching
         Trades
-      Personal_Development
+      Personal-Development
         Psychology
         Mindfulness
         Productivity
-    Meta_Knowledge
+    Meta-Knowledge
       Epistemology
-      Interdisciplinary_Studies
+      Interdisciplinary-Studies
       Methodologies
-```
