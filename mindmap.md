@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Knowledge))
     Foundations-of-Thought
@@ -79,3 +80,4 @@ mindmap
       Epistemology
       Interdisciplinary-Studies
       Methodologies
+```
