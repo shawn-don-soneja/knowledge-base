@@ -1,4 +1,5 @@
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root((Knowledge))
     Foundations-of-Thought
