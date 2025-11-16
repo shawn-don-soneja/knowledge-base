@@ -12,7 +12,7 @@ function App() {
       .then(data => setMsg(data.message));
   }, []);
 
-  return <div>{msg} YEET</div>;
+  return <h1>{msg} YEET</h1>;
 }
 
 
