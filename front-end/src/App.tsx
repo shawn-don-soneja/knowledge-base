@@ -1,7 +1,29 @@
+import { useEffect, useState } from "react";
+
+function App() {
+  const [msg, setMsg] = useState("a");
+
+  useEffect(() => {
+    fetch("http://localhost:3000/hello")
+      .then(res => {
+        console.log('hello!'); //shows in front-end browser logs
+        return res.json();
+      })
+      .then(data => setMsg(data.message));
+  }, []);
+
+  return <div>{msg} YEET</div>;
+}
+
+
+/*
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+// Frontend JSX
+import { hello } from "../back-end/src/index.ts";
+console.log(hello);
 
 function App() {
   const [count, setCount] = useState(0)
@@ -31,5 +53,6 @@ function App() {
     </>
   )
 }
+*/
 
 export default App
