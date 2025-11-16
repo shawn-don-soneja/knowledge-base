@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21737b0fa1dbadd8",
+        "id": "919f79fc247244a7",
         "type": "tabs",
         "children": [
           {
-            "id": "5939ca7b9b327262",
+            "id": "52d805e3d93fa88a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Computer Science"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5086555480957,
-    "collapsed": true
+    "width": 312.5086555480957
   },
   "right": {
     "id": "8ca10090e372c266",
@@ -154,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,9 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5939ca7b9b327262",
+  "active": "52d805e3d93fa88a",
   "lastOpenFiles": [
     "0. Knowledge.md",
+    "Untitled.base",
     "Math.md",
     "Music.md",
     "History.md",

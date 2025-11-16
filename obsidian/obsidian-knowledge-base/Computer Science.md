@@ -1,7 +1,10 @@
 ### Languages
-- Python
-- JavaScript... TypeScript
-- Java
+- **Python**
+- **JavaScript... TypeScript**
+	- Back-end
+		- Express -> establishes ports, and api routes and verbs
+		- Vite -> use function `exports`
+- **Java**
 
 
 **Compiled Languages**
