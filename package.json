@@ -6,5 +6,8 @@
     "first-time-front-end": "cd front-end && npm install",
     "first-time": "concurrently \"npm run first-time-back-end\" \"npm run first-time-front-end\"",
     "dev": "concurrently \"npm run front-end\" \"npm run back-end\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
   }
 }
