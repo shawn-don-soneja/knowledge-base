@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "919f79fc247244a7",
+        "id": "42c93cdd05261d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "52d805e3d93fa88a",
+            "id": "51c680440f3555d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Science"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5086555480957
+    "width": 359.51103591918945
   },
   "right": {
     "id": "8ca10090e372c266",
@@ -166,25 +162,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d805e3d93fa88a",
+  "active": "9b1da71539ba4220",
   "lastOpenFiles": [
     "0. Knowledge.md",
-    "Untitled.base",
-    "Math.md",
-    "Music.md",
-    "History.md",
-    "Philosophy.md",
-    "Law.md",
-    "Science.md",
-    "Creativity.md",
-    "Computer Science.md",
-    "Untitled.md",
+    "Level 1/Art.md",
+    "Level 2/Taxation.md",
+    "Level 1/Science.md",
+    "Level 1/Philosophy.md",
+    "Level 2/Music.md",
+    "Level 1/Math.md",
+    "Level 1/Law.md",
+    "Level 1/History.md",
+    "Level 1/Economics.md",
+    "Level 1/Creativity.md",
+    "Level 2/Computer Science.md",
     "Untitled.canvas",
+    "Level 2",
+    "Level 1",
+    "Tier 1",
+    "Untitled.base",
     "Untitled 1.canvas",
     "2025-11-16.md",
     "create a link.md",
     "Welcome.md",
-    "Untitled 1.md",
-    "Untitled"
+    "Untitled 1.md"
   ]
 }
