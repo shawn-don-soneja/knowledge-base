@@ -11,10 +11,14 @@
             "id": "51c680440f3555d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Level 2/Computer Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Science"
             }
           }
         ]
@@ -162,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b1da71539ba4220",
+  "active": "51c680440f3555d0",
   "lastOpenFiles": [
     "0. Knowledge.md",
     "Level 1/Art.md",
