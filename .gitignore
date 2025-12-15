@@ -27,5 +27,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Active Workspace
+workspace.json
+
 # Logs
 l
+
