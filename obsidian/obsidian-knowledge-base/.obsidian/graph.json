@@ -11,7 +11,7 @@
       "query": "path:\"Level 1\"  ",
       "color": {
         "a": 1,
-        "rgb": 15893767
+        "rgb": 15890695
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 0.911317254174397,
   "linkDistance": 155,
-  "scale": 0.316428711504886,
-  "close": true
+  "scale": 0.5863949095055179,
+  "close": false
 }
