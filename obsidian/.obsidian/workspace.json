@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a126a63e7d65647",
+        "id": "49401c55da0194b3",
         "type": "tabs",
         "children": [
           {
-            "id": "22fce8c253534d55",
+            "id": "bf9dd729df70a270",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "604a3e95da283720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Languages"
-            }
-          },
-          {
-            "id": "022e8c5f65f06944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-knowledge-base/Level 2/Taxation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taxation"
+              "title": "New tab"
             }
           }
         ]
@@ -208,13 +180,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "22fce8c253534d55",
+  "active": "bf9dd729df70a270",
   "lastOpenFiles": [
     "Languages.md",
-    "obsidian-knowledge-base/0. Knowledge.md",
     "obsidian-knowledge-base/Level 2/Taxation.md",
-    "obsidian-knowledge-base/Level 1/Strength.md",
     "obsidian-knowledge-base/Level 1/Economics.md",
+    "obsidian-knowledge-base/0. Knowledge.md",
+    "obsidian-knowledge-base/Level 1/Strength.md",
     "obsidian-knowledge-base/Level 1/Science.md",
     "obsidian-knowledge-base/Level 2/Computer Science.md",
     "React.md",
