@@ -1,4 +1,5 @@
 ### Languages & their Frameworks
+
 - **Python**
 	- Django
 		- [Top 10 Django Apps Examples](https://www.netguru.com/blog/django-apps-examples)
@@ -9,8 +10,11 @@
 		```
 
 - **JavaScript... TypeScript**
-	-  [[React]]
+	- [[React]]
 	- [[NextJS]]
+	- Importing
+		- CommonJS -> `require(fileName.js)`
+		  ES Modules -> `import something from 'somewhere'`
 	- Back-end
 		- Express -> establishes ports, and api routes and verbs
 		- Vite -> use function `exports`
@@ -38,7 +42,6 @@
 		
 		// Sets
 		```
-
 	- Sorting
 		- ...
 	- Math
@@ -48,8 +51,6 @@
 
 - **Java**
 	- Spring Boot
-
-
 
 
 **Compiled Languages**
