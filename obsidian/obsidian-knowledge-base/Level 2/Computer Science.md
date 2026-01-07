@@ -45,6 +45,8 @@
 		- Rounding 
 			- `Math.round()` , rounds to nearest integer
 			- `Math.ceil()`, rounds to nearest high integer, or `Math.floor()` for the opposite
+	- Resources
+		- https://eloquentjavascript.net/
 
 - **Java**
 	- Spring Boot
