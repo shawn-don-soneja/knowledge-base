@@ -4,6 +4,7 @@
     "back-end": "cd back-end && npx ts-node src/index.ts",
     "first-time-back-end": "cd back-end && npm install",
     "first-time-front-end": "cd front-end && npm install",
+    "install-all": "npm run first-time-back-end && npm run first-time-front-end",
     "first-time": "concurrently \"npm run first-time-back-end\" \"npm run first-time-front-end\"",
     "dev": "concurrently \"npm run front-end\" \"npm run back-end\""
   },
