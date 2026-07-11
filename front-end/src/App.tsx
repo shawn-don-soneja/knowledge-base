@@ -12,7 +12,11 @@ function App() {
       .then(data => setMsg(data.message));
   }, []);
 
-  return <h1>{msg} YEET</h1>;
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-white dark:bg-slate-900">
+      <h1 className="text-4xl font-bold text-slate-900 dark:text-slate-100">{msg} YEET</h1>
+    </div>
+  );
 }
 
 

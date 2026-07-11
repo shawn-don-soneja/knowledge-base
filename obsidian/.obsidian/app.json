@@ -1,3 +1,12 @@
 {
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
