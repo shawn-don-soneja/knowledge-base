@@ -1,7 +1,7 @@
 {
   "scripts": {
     "front-end": "cd front-end && npm run dev",
-    "back-end": "cd back-end && npx ts-node src/index.ts",
+    "back-end": "cd back-end && npx tsx src/index.ts",
     "first-time-back-end": "cd back-end && npm install",
     "first-time-front-end": "cd front-end && npm install",
     "install-all": "npm run first-time-back-end && npm run first-time-front-end",
