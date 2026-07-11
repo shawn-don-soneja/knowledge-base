@@ -4,11 +4,14 @@ dg-publish: true
 
 ### Key Projects
 
-| Project Name                  | Descripton                                                                                                       | Notes                                                    | Site                                                                         |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Algo Trader                   | Houses agents for securities Trading<br>- Value Agent: trades bond ETFs<br>- Options Agent (WIP): trades options | [SS 7/1] Next milestone I think is backtesting module... | https://python-trade-and-predict.vercel.app/                                 |
-| Python Server Apps            | Contains some `Net Worth Modeling Tools` and a Django App (uses my Lightsail VPS)                                | ...                                                      | [python-server-apps](https://github.com/shawn-don-soneja/python-server-apps) |
-| Shawn Home - Monorepo of Apps | Contains a CLI, right now. Intended to support `Python` and `TypeScript` projects                                |                                                          | [shawn-home](https://github.com/shawn-don-soneja/shawn-home)                 |
+| #   | Project Name                  | Descripton                                                                                                                      | Notes                                                    | Site                                                                                                                    |
+| --- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 1   | Algo Trader                   | Houses **agents** for securities Trading:<br>- Value Agent which trades bond ETFs<br>- Options Agent (WIP) which trades options | [SS 7/1] Next milestone I think is backtesting module... | https://python-trade-and-predict.vercel.app/                                                                            |
+| 2   | Python Server Apps            | Contains some `Net Worth Modeling Tools` and a Django App (uses my Lightsail VPS)                                               | ...                                                      | [python-server-apps](https://github.com/shawn-don-soneja/python-server-apps)                                            |
+| 3   | Shawn Home - Monorepo of Apps | Contains a CLI, right now. Intended to support `Python` and `TypeScript` projects                                               |                                                          | [shawn-home](https://github.com/shawn-don-soneja/shawn-home)                                                            |
+| 4   | Knowledge Base                | **Obsidian** Knowledge base                                                                                                     |                                                          | https://my-knowledge-base-taupe.vercel.app/<br><br>[knowledge-base](https://github.com/shawn-don-soneja/knowledge-base) |
+
+
 
 
 
