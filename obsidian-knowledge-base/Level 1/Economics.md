@@ -1,5 +1,5 @@
 [[Taxation]]
-[[Finance]]
+[[Finance 1]]
 
 Discounted Cash Flows:
 > “Future money counts less than present money.” 
@@ -36,4 +36,4 @@ Key Differences
 - **Resource Allocation:** Supply & Demand (market) vs. Government Planning (command).
 
 Child Page:
-[[Finance]] -> a specialized field of Economics
+[[Finance 1]] -> a specialized field of Economics
