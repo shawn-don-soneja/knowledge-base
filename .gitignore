@@ -33,3 +33,5 @@ workspace.json
 # Logs
 l
 
+# Obsidian
+**/.obsidian/plugins/
