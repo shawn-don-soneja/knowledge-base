@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6945972f8d6704",
+        "id": "fdaec639fccb8c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "5769856d8b44ee7f",
+            "id": "1aa4d50b4909b4c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 285.5
   },
   "right": {
     "id": "360f4e3f68b5fac1",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-knowledge-base/something.md",
+                "file": "Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for something"
+              "title": "Backlinks for Finance"
             }
           },
           {
@@ -179,47 +180,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "marp-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5769856d8b44ee7f",
+  "active": "1aa4d50b4909b4c0",
   "lastOpenFiles": [
-    "obsidian-knowledge-base/something.md",
-    "obsidian-knowledge-base/Statistics.md",
-    "obsidian-knowledge-base/Finance.md",
-    "Untitled.canvas",
-    "obsidian-knowledge-base/IRA.md",
-    "obsidian-knowledge-base/0. Knowledge.md",
-    "obsidian-knowledge-base/Languages.md",
-    "obsidian-knowledge-base/neural networks.md",
-    "obsidian-knowledge-base/To reach $1M effectively.md",
-    "neural networks.008.png",
-    "neural networks.007.png",
-    "neural networks.006.png",
-    "neural networks.005.png",
-    "neural networks.004.png",
-    "neural networks.003.png",
-    "neural networks.002.png",
-    "neural networks.001.png",
-    "neural networks.html",
-    "slidev-decks/ira.md",
-    "obsidian-knowledge-base/The Holistic Roadmap to $1M.md",
-    "slidev-decks",
-    "obsidian-knowledge-base/Level 2/Computer Science.md",
-    "obsidian-knowledge-base/Untitled.canvas",
-    "obsidian-knowledge-base/Level 1/Math.md",
     "obsidian-knowledge-base/Level 1/Economics.md",
+    "obsidian-knowledge-base/Level 1/Science.md",
+    "Finance.md",
+    "obsidian-knowledge-base/Level 1/Law.md",
+    "Government.md",
+    "obsidian-knowledge-base/Level 2/Computer Science.md",
     "obsidian-knowledge-base/Level 3/NextJS.md",
     "obsidian-knowledge-base/Level 3/React.md",
+    "obsidian-knowledge-base/0. Knowledge.md",
     "obsidian-knowledge-base/Level 3",
     "obsidian-knowledge-base/Level 2/Music.md",
     "Untitled.base",
     "Untitled 1.base",
     "obsidian-knowledge-base/Level 1/Philosophy.md",
+    "Languages.md",
     "obsidian-knowledge-base/Level 2/Taxation.md",
-    "obsidian-knowledge-base/Level 1/Strength.md",
-    "obsidian-knowledge-base/Level 1/Science.md",
-    "obsidian-knowledge-base/Level 1/Law.md"
+    "obsidian-knowledge-base/Level 1/Strength.md"
   ]
 }

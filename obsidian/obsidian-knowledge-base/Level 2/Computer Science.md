@@ -55,6 +55,8 @@
 		- **When functions are called, they're added to call stack**
 			- Top-most item is finished first, and continue down the stack
 		- Cannot do parallel processing like `C` or `C++`
+	- Resources
+		- https://eloquentjavascript.net/
 
 - **Java**
 	- Spring Boot
