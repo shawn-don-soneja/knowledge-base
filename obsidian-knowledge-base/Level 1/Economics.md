@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Taxation]]
 [[Finance 1]]
 

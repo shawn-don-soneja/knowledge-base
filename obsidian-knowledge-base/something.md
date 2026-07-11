@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 Based on the provided sources, here is a comprehensive list of key terms, acronyms, and definitions essential for your exam, organized by category.
 

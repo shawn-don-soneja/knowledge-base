@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### Types
 **metaphysics** (reality), 

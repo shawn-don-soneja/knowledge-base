@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 To succeed on the exam regarding neural networks, you should focus on their architectural components, training mechanisms, and their specific applications in reinforcement learning and trading.
 
 ---

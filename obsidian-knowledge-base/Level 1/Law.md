@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Taxation]]
 
 System of rules created by society to maintain order

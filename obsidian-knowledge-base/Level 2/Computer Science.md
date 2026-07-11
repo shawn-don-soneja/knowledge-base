@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Languages & their Frameworks
 
 - **Python**
@@ -13,8 +16,16 @@
 	- [[React]]
 	- [[NextJS]]
 	- Importing
-		- CommonJS -> `require(fileName.js)`
-		  ES Modules -> `import something from 'somewhere'`
+		- Module systems for Node
+			- CommonJS -> `require(fileName.js)`
+			- ES Modules -> `import something from 'somewhere'`
+				- What is an `ESM package`?
+
+
+
+			![[Pasted image 20260711135731.png]]
+
+
 	- Back-end
 		- Express -> establishes ports, and api routes and verbs
 		- Vite -> use function `exports`
@@ -66,7 +77,41 @@
 **Uncompiled Languages**
 
 
-### Test Drive Development
+
+### Compute
+
+#### Startup Speeds
+Node and Python, lightweight built-at-runtime language which don't need to spin up virtual machines lead to `quicker cold starts in serverless Lambda functions`.
+
+`Java`, `C`, and `C++` would take longer to cold start because they build virtual machines, link up dependencies, pull binaries. Buncha shit.
+
+> It comes down to **package size** and **runtime initialization overhead**.
+> 
+> When a cold start occurs, AWS Lambda has to download your code and prepare the runtime environment before it can execute a single line.
+> 
+> - **Runtime Initialization:** Python and Node.js are lightweight, interpreted environments. Their runtimes initialize almost instantly. Java, on the other hand, must spin up an entire **Java Virtual Machine (JVM)**, load core system classes, and perform garbage collection initialization before your code even boots.
+>     
+> - **Compilation & Linking:** C++ requires loading compiled, heavy binary files and resolving dynamic links, which adds latency.
+>     
+> - **Reflection:** Java frameworks (like Spring) often use runtime reflection to scan packages upon startup, drastically lengthening the boot process.
+>     
+> 
+> Python and Node.js skip all of this virtual machine setup, allowing them to jump straight to execution.
+> 
+> -- [Gemini](https://gemini.google.com/app/2f6f6a44f930a141)
+
+
+#### Compute Speeds
+
+*When compared to C*
+
+| **Language**         | **Raw Execution Time** | **Memory Overhead** | **Energy Consumption** |
+| -------------------- | ---------------------- | ------------------- | ---------------------- |
+| **C++**              | ~1.34x slower          | ~1.34x higher       | ~1.34x more energy     |
+| **Java** (JVM)       | ~1.89x slower          | ~6.01x higher       | ~1.98x more energy     |
+| **JavaScript** (V8)  | ~6.52x slower          | ~4.59x higher       | ~4.45x more energy     |
+| **Python** (CPython) | ~71.90x slower         | ~2.80x higher       | ~75.88x more energy    |
+### Test DrivenDevelopment
 
 Reference: https://www.youtube.com/watch?v=oRAA4d19-Og&t=71s
 

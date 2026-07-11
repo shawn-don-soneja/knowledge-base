@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[To reach $1M effectively]]
 The core of this strategy is moving away from trading time for money and toward building **Wealth Engines**. Here is the breakdown of how to reach that milestone effectively while maintaining your W2:
 

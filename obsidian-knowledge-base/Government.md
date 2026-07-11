@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Law]] -> Government usually controls law-making
 [[Economics]] -> Government usually is a regulator of economies and markets
 

@@ -1,2 +1,0 @@
-
-Finance is an applied field _within_ economics, focusing on how individuals, businesses, and governments manage, create, and study money, banking, credit, and investments, while economics studies the broader systems of production, distribution, and consumption of resources, making finance the practical application of economic theory to financial decision-making under uncertainty. ==Essentially, economics asks "how does the whole system work?", and finance asks "how do we manage and grow money within that system?"==.

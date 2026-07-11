@@ -1,5 +1,5 @@
 ---
-
+dg-publish: true
 ---
 ---
 ### Server-side Component Rendering

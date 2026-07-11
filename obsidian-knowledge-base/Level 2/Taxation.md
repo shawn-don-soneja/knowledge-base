@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 > Mandatory payment imposed by governmental organizations
 > to provide public goods and services for the benefit of the community as a whole.

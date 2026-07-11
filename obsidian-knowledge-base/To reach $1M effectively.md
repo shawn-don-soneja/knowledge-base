@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 To reach **$1M effectively**, you need to shift from "saving from a salary" to "stacking decoupled systems." Since you’re a developer with finance/quant interests, you are uniquely positioned to build **wealth engines** that don't trade hours for dollars.
 
 ### **1. The W2 "Backbone" Strategy**
