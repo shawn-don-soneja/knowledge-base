@@ -13,3 +13,12 @@ dg-publish: true
 	- Sometimes, you need to say for yourself "I am walking *here*".
 		- There's moving like water
 		- And sometimes you need strength to move like water with mass... not without mass
+
+
+### Anxiety
+
+### Social Interactions
+
+### Speaking to groups
+- where to put eyeƒs! how to feel confident!
+- I have this weird tick in my neck as of recently when making eye contact 😭
