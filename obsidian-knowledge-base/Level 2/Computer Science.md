@@ -15,6 +15,7 @@ dg-publish: true
 - **JavaScript... TypeScript**
 	- [[React]]
 	- [[NextJS]]
+	
 	- Importing
 		- Module systems for Node
 			- CommonJS -> `require(fileName.js)`
@@ -68,6 +69,7 @@ dg-publish: true
 		- Cannot do parallel processing like `C` or `C++`
 	- Resources
 		- https://eloquentjavascript.net/
+		- Helpful JS Code on Functional Methods - [link](https://runjs.app/play?s=PQKgUCAEi8G40juQdQKYBsDGB7AtkyAXDfAC1wwDsUBLM3AKQEMA3egZTQCdKAHPSLlegE8A5uwwBXMgBMYgAL2IESABVCwpLwDOeeuzxIpAGnztBkAO6c81YZA3ZcmKUgVQAYhnaQk9NES8APLnYkDQ1KckhBCXNLJCMo8QByFBRbJFw8EkhgjXEUXmpiUnE8LhK+ehoUCGAwMEwyLUgSFIwEDxQZAF5IAAoASkgugD5IRIAJVBQMI3b2ToBCSEAeDcA4fcSAbjrgYGapto6pAa2wHcgAVkgoc5Oz+jN6Sl4ABTEsSg0kADocjBRGJC9RIqLgAWhQSABqXuj14gD4NwCUu4l+icAGaSNBWCJSDAseyZay9Ow4ACC7HYQn6AG8wJBIGcGnYIV9psIgajKJwyMJkVs6WdgnhxOwyLZ7GSKYIvlh6Fxer1-IMRpB-JAANSQACMKNp9PAdN1IFqdMFwtFxKQEqEurpX1RAjwvQAkmQOWQnoJ+jbIHaHQBZWXyp5ILBK0Y0umR7LqM2QYNYdU9TXegC+XpTdUZvCwgitph6AG1NQYAEwGADMBgALAZzgBdba7HF4nAE7m9HN5r31chNMgYPCuB15oaQAu64u6su6yu6gs1i5GABsdYMuoARPR12u6euAEbbufrtDbyA2gvrqSn9dIa+o0-ei-Ca9Ea+UdcNyOfyANhunKBPJAfoks8LCQJUMiZEgoquAAMiSShKAAogAcmBRo9o0vD2vQeB6DQUgjj0zb4kQhL9oOw7kpSJyMn83ysr0OF4dB+hdrRvYFO6Vj0CgABqvHiLghaanWWxZtGUjiGgbHUfmkDMfhsmSj8+jSYCuq9D4aDiFgeS4foAkoEJRhaDoeBhpAEaRnRzKMdpun6XoUhGSZtjaLoXpRg5ekOoZgnfGUGhEESHkWd6poiuBaA6b5BkuQFuopjucbcZQvGuc43a2QxGBssEUkyYRck6qcuwAPLsE4BWQMwxmkKikAANZIIIoJ1UJFSchoZXgWQphSLh9D4IIXC4PQGjgc1rW9RCoSQDgWAeKYuG2GgvG4L0JYAAyQKCFzbRquF4Jwe4lCE-RGKgnz4PQLWTUtwS2FwPgZEQlR8AIhQYHuABWSCYphTQ5gGXCjjQZhAYG450gWiSUFIiRGJq22iSlcNiBCSNjPQUjvGQiS-tlvb0SyeW9F8lMg7KXwtYIGgDN2ZwAKooeVABKAAiSHs0hnOQFQTQYI1dO1QFXXsD1ZzkCgphaFywiTRBtiCFge5-ErSvTYIQO8JIHjVfo5V-QDvA9NZiQWm2PIAFxjB8ezBEjuqJPQaiJHbmolmAGZA6TjH61VSAFcb-2Yv0QA)
 
 - **Java**
 	- Spring Boot
