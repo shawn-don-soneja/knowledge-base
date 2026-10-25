@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-[]()
+`History` is documenting the past. Chronicling events, and analyzing why things may have happened the way they did. Understanding, looking back, and reflecting on the forces at play.
+
 > "Those who cannot remember the past are condemned to repeat it." — George Santayana
 
 ### Ancient History (c. 3400 BCE – 476 CE)

@@ -66,3 +66,16 @@ graph TD
 	classDef other fill:lightblue
 	classDef hasCode fill:darkgreen
 ```
+
+### Sites
+
+```mermaid
+graph LR
+	A["`shawnsoneja.com <br> **AWS Amplify React**`"]
+	B["`private.shawnsoneja.com <br> **Vercel**`"] --- A
+	C["`projects.shawnsoneja.com <br> **Vercel**`"] --- A
+	D["`personal.shawnsoneja.com`"]:::other -.- A
+	E["`Python Server Apps <br> **Django**`"]
+	
+classDef other fill:lightgray,stroke:darkgray;
+```
